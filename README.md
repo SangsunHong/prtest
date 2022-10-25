@@ -20,6 +20,4 @@
 
 - Github: [@HiSunny](https://github.com/SangsunHong)
 
-## Show your support
-
 도움이 되셨다면 ⭐️를 눌러주세요!
